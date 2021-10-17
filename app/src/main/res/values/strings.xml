@@ -1,0 +1,32 @@
+<resources>
+
+<!--    <string name="sample_button">Free Sample</string>-->
+<!--    <string name="buy_button">Buy IDR 89.790</string>-->
+    <string name="contentText">Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et
+dolore magna aliqua. Ut enim ad
+minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur.</string>
+
+    <!--    picture in picture-->
+<!--    <string name="app_name">Book Store</string>-->
+<!--    <string name="title">Aladdin (2019)</string>-->
+<!--    <string name="publisher">Walt Disney Picture</string>-->
+
+    <!--ebook store-->
+    <string name="app_name">Book Store</string>
+    <string name="sample_button">Free Sample</string>
+    <string name="buy_button">Buy IDR 89.790</string>
+    <string name="title">Aladdin (2019)</string>
+    <string name="publisher">Walt Disney Picture</string>
+    <string name="description_book">Belle, a village girl, embarks on a
+journey to save her
+father from a creature that has
+locked him in his dungeon. Eventually, she learns that
+the creature is an enchanted
+prince who has been cursed.</string>
+
+</resources>
